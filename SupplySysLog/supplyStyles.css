@@ -1,0 +1,99 @@
+p{
+    width: 149px;
+    height: 39px;
+
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    
+/* identical to box height */
+    color: #41AFED;
+    width: 671px;
+}
+
+
+tr{
+    
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+/* identical to box height */
+    color: #41AFED;
+    
+}
+
+hr{
+    width: 688.01px;
+    height: 0px;
+    border: 1px solid #41AFED;
+    display: inline;
+    position: absolute;
+    left: 45px;
+}
+
+
+.log-container{
+    font-family: 'Inter', sans-serif;
+    background: #0C0A26;
+    width: 800px;
+    height: 1280px;
+    text-align: center;
+    position: relative;
+    
+}
+
+.element-one{
+    position: absolute;
+    display: block;
+    width: 688.01px;
+    line-height: 44px;
+    letter-spacing: 0.5rem;
+    font-weight: 400px;
+    font-size: 36px;
+
+    
+    width: 671px;
+    height: 44px;
+    left: 64px;
+    top: 40px;
+    
+}
+
+.element-two{
+    position: absolute;
+    width: 688.01px;
+    top: 186px;
+    left: 45px;
+    height: 300px;
+}
+
+.element-three{
+    position: absolute;
+    top: 540px;
+    display: block;
+    left: 45px;
+    align-items:center;
+}
+
+.element-four{
+    position: absolute;
+    top: 750px;
+    left: 45px;
+
+}
+
+.one{
+    top: 115px;
+}
+
+.two{
+    top: 510px;
+}
+.three{
+    top: 730px;
+}
