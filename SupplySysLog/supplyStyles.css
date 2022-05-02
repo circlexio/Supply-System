@@ -1,3 +1,11 @@
+body {
+    overflow: hidden; /* Hide scrollbars */
+    margin:0;
+    transform: rotate(90deg);
+    background: #0C0A26;
+    padding-left: 10px;
+    
+  }
 p{
     width: 149px;
     height: 39px;
@@ -44,6 +52,7 @@ hr{
     height: 1280px;
     text-align: center;
     position: relative;
+    padding-left: 100px;
     
 }
 
